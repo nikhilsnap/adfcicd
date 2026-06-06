@@ -1,0 +1,15 @@
+{
+	"name": "adfanshnikhil",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0034b940-e190-460b-9136-54dac3566a24",
+		"tenantId": "b92f1bdd-a263-4317-a9ea-3f428df54433"
+	}
+}
